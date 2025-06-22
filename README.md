@@ -3,7 +3,7 @@
 This project features a set of **music subscription plan cards** designed using **HTML** and **CSS**. It showcases different pricing tiers in a clean and responsive card layout, perfect for displaying subscription options in any music or streaming service.
 
 ### 🔗 Live Website 
-👉 [Visit Now]()
+👉 [Visit Now](https://karthikeyan-hue.github.io/Subscription-plan-cards/)
 
 ### 🔧 Technologies Used
 
